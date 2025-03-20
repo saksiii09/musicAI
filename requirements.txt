@@ -1,1 +1,4 @@
 magenta
+tensorflow==2.12.0
+protobuf==3.20.*
+pretty_midi
